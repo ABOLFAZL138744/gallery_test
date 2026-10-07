@@ -1,0 +1,1 @@
+print("Gallery test started")
